@@ -9,6 +9,14 @@ holding a bottle of maple syrup, with a canadian flag in the background.
 
 `crying-beaver-square` is a variant with square dimensions (for use as custom emoji.)
 
+## All variants
+
+| Variant                  |                          Image                          |
+| :----------------------- | :-----------------------------------------------------: |
+| `crying-beaver`          |          ![crying-beaver](./crying-beaver.png)          |
+| `crying-beaver-pleading` | ![crying-beaver-pleading](./crying-beaver-pleading.png) |
+| `crying-beaver-square`   |   ![crying-beaver-square](./crying-beaver-square.png)   |
+
 ## 🙇 Thanks
 
 The beaver artwork, the sobbing trails, and the pleading eyes are from
